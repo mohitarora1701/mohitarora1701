@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohitarora1701
 - 👀 I’m interested in Python, Data science 
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning Projects 
 - 📫 How to reach me you can mail me on mohitarora1170@gmail.com
 
 <!---
